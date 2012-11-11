@@ -1,0 +1,46 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+#contForm {
+  max-width: 300px;
+  padding: 19px 29px 29px;
+}
+
+.contForm .contForm-heading {
+  margin-bottom: 10px;
+}
+
+.contForm input[type="text"] {
+  font-size: 16px;
+  height: auto;
+  margin-bottom: 15px;
+  padding: 7px 9px;
+}
+
+#searchInp {
+  margin-bottom: 0px;
+}
+
+#actions {
+  margin-bottom: 0px;
+}
+
+.highlight { font-weight: bolder; }
+
+#delButton {
+  margin-left: 255px;
+}
+
+#formSubmit {
+  margin-left: 180px
+}
+
+#about {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 20px;
+  color: #D1D1D3;
+}
